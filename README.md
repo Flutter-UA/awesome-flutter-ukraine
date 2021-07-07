@@ -25,4 +25,8 @@
 
 ## Зроблено в Україні
 
+#### Пакован: твій помічник у свідомому споживанні
+- [Google Play Store](https://play.google.com/store/apps/details?id=app.pakovan)
+- [App Store](https://apps.apple.com/app/id1537570060)
+
 ## Вакансії
