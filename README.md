@@ -17,6 +17,9 @@
 
 ## Спільноти
 
+#### Flutter Lviv
+- [Meetup](https://meetup.com/Flutter-Lviv)
+
 ## Зроблено в Україні
 
 ## Вакансії

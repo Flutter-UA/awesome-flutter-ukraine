@@ -17,6 +17,9 @@
 
 ## Communities
 
+#### Flutter Lviv
+- [Meetup](https://meetup.com/Flutter-Lviv)
+
 ## Made in Ukraine
 
 ## Jobs
