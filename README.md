@@ -20,6 +20,9 @@
 #### Art Flutter
 - [Telegram](https://t.me/artflutter)
 
+#### Flutter Lviv
+- [Meetup](https://meetup.com/Flutter-Lviv)
+
 ## Зроблено в Україні
 
 ## Вакансії
