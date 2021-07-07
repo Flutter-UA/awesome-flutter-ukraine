@@ -17,6 +17,9 @@
 
 ## Спільноти
 
+#### Art Flutter
+- [Telegram](https://t.me/artflutter)
+
 ## Зроблено в Україні
 
 ## Вакансії

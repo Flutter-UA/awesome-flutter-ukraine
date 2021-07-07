@@ -17,6 +17,9 @@
 
 ## Communities
 
+#### Art Flutter
+- [Telegram](https://t.me/artflutter)
+
 ## Made in Ukraine
 
 ## Jobs
