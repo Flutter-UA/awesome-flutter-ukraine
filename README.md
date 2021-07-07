@@ -1,5 +1,7 @@
 # Awesome Flutter Ukraine
 
+*Read this in other languages: [English](README.en.md).*
+
 
 ## Зміст
 - [Cтатті](#статті)
