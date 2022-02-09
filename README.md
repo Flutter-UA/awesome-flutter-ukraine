@@ -20,6 +20,12 @@
 #### Art Flutter
 - [Telegram](https://t.me/artflutter)
 
+#### Flutter Kharkiv
+- [Meetup](https://www.meetup.com/kharkiv-flutter)
+
+#### Flutter Kyiv
+- [Meetup](https://www.meetup.com/kyiv-flutter)
+
 #### Flutter Lviv
 - [Meetup](https://meetup.com/Flutter-Lviv)
 
